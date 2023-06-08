@@ -25,7 +25,7 @@ public class Application {
         searchParams.put(Monitor.class, List.of("id", "model", "brand", "price", "resolution", "displaySize"));
         searchParams.put(Keyboard.class, List.of("id", "model", "brand", "price", "backlight", "connection"));
         searchParams.put(Mouse.class, List.of("id", "model", "brand", "price", "dpi", "connection"));
-        console = Console.getInstance("Muborak", "muborak@gmail.com",
+        console = Console.getInstance("Muborak", "Muborakxon_Toychiyeva@student.itpu.uz",
             List.of("Monitor", "Keyboard", "Mouse"), searchParams);
     }
 
