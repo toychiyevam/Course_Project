@@ -1,0 +1,11 @@
+ID,MODEL,BRAND,PRICE,DPI,CONNECTION
+3001,G100,Logitech,500,1600,wireless
+3002,G700,Logitech,100,400,wired
+3003,X-pro,Apple,4000,1600,wired
+3004,X-lite,Apple,3000,400,wired
+3005,X-pro-max,Apple,2200,2400,wired
+3006,X-mini,Apple,2500,400,wired
+3007,P200,MSI,200,400,wireless
+3008,P300,MSI,300,400,wireless
+3009,P400,Dell,400,1600,wireless
+3010,O111,Logitech,500,400,wireless
